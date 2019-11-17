@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="758" height="209" viewBox="0 0 758 209">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        font-size: 48px;
+        font-family: "Nexa Bold";
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <text id="KOSMOSKEY" class="cls-1" transform="translate(30.541 121.071) scale(2.257)">KOSMOS<tspan class="cls-2">KEY</tspan></text>
+  <text id="MAGOMED_KHAMIDOV" data-name="MAGOMED KHAMIDOV" class="cls-3" transform="translate(35.451 174.658) scale(0.676)">MAGOMED KHAMIDOV</text>
+</svg>
